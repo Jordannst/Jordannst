@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Hi 👋! My name is Jordan Sutarto and I'm a WebDev, from Indonesia</h3>
+<h3 align="left">Hi 👋! My name is Jordan Sutarto and I'm a WebDev, from Indonesia</h3>
 
 ###
 
