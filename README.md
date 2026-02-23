@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Jordan and I'm a Computer Science Student, from Indonesia</h2>
+<h2 align="left">Hi 👋! I'm Jordan | Full-Stack Developer shaping pixels into products 🧊🌌</h2>
+
+<p align="left">
+  👨‍🎓 CS Student based in Indonesia 🇮🇩 <br>
+  ⚡ Actively building with React Native, Astro, & exploring Cloud Infrastructure <br>
+  🎯 <b>Currently open for internship and freelance opportunities!</b>
+</p>
 
 ###
 
@@ -57,6 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="30" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
 
 ###
