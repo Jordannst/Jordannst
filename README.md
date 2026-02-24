@@ -67,34 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
 
-###
-
-<h3 align="left">Featured Projects</h3>
-
-<div align="center">
-  <a href="https://github.com/Jordannst/contextual-rag-chat">
-    <img src="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api/pin/?username=Jordannst&repo=contextual-rag-chat&theme=dark&hide_border=true" width="400" alt="contextual-rag-chat" />
-  </a>
-  <a href="https://github.com/Jordannst/NewsArticleClassification">
-    <img src="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api/pin/?username=Jordannst&repo=NewsArticleClassification&theme=dark&hide_border=true" width="400" alt="NewsArticleClassification" />
-  </a>
-  <br/>
-  <a href="https://github.com/Jordannst/klk-excl-backend">
-    <img src="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api/pin/?username=Jordannst&repo=klk-excl-backend&theme=dark&hide_border=true" width="400" alt="klk-excl-backend" />
-  </a>
-  <a href="https://github.com/Jordannst/klk-excl-frontend">
-    <img src="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api/pin/?username=Jordannst&repo=klk-excl-frontend&theme=dark&hide_border=true" width="400" alt="klk-excl-frontend" />
-  </a>
-  <br/>
-  <a href="https://github.com/Jordannst/evillimiter">
-    <img src="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api/pin/?username=Jordannst&repo=evillimiter&theme=dark&hide_border=true" width="400" alt="evillimiter" />
-  </a>
-  <a href="https://github.com/Jordannst/about-me">
-    <img src="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api/pin/?username=Jordannst&repo=about-me&theme=dark&hide_border=true" width="400" alt="about-me" />
-  </a>
-</div>
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/_jordannst/" target="_blank">
