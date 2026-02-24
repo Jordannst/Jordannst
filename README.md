@@ -11,8 +11,12 @@
 <div align="center">
   <img src="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api?username=Jordannst&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&cache_seconds=86400" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api/top-langs?username=Jordannst&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&cache_seconds=86400" height="150" alt="languages graph"  />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Jordannst&theme=darkhub&no-bg=true&no-frame=true&margin-w=15" alt="github trophies" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jordannst&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&v=1" alt="github trophies" />
 </div>
 
 ###
@@ -20,8 +24,6 @@
 <br clear="both">
 
 <img align="right" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXp3c2UxaDZpNnRrM3g0aTI2N2JmZHlwYTk3ajd4cGt5bTczcDY1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -72,6 +74,8 @@
 ###
 
 <br clear="both">
+
+<h3 align="left">📫 Connect with me</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/_jordannst/" target="_blank">
