@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! I'm Jordan | Full-Stack Developer shaping pixels into products 🧊🌌</h2>
+<h2 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />! I'm Jordan | Full-Stack Developer shaping pixels into products 🌌</h2>
 
 <p align="left">
-  👨‍🎓 CS Student based in Indonesia 🇮🇩 <br>
-  ⚡ Actively building with React Native, Astro, & exploring Cloud Infrastructure <br>
-  🎯 <b>Currently open for internship and freelance opportunities!</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="25" height="25" /> CS Student based in Indonesia 🇮🇩 <br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Actively building with React Native, Astro, & exploring Cloud Infrastructure <br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Direct Hit" width="25" height="25" /> <b>Currently open for internship and freelance opportunities!</b>
 </p>
 
 ###
@@ -73,8 +73,7 @@
 
 ###
 
-
-<h3 align="left">📫 Connect with me</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Connect with me</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/_jordannst/" target="_blank">
