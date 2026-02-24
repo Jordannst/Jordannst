@@ -21,11 +21,13 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXp3c2UxaDZpNnRrM3g0aTI2N2JmZHlwYTk3ajd4cGt5bTczcDY1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" alt="Coding GIF" />
+</div>
 
-<img align="right" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXp3c2UxaDZpNnRrM3g0aTI2N2JmZHlwYTk3ajd4cGt5bTczcDY1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" />
+<br>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -73,9 +75,9 @@
 
 ###
 
-<h3 align="left">📫 Connect with me</h3>
+<h3 align="center">📫 Connect with me</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/_jordannst/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
