@@ -3,6 +3,7 @@
 <p align="left"> 
   👨‍🎓 CS Student based in Indonesia 🇮🇩 <br>
   ⚡ Actively building with React Native, Astro, & exploring Cloud Infrastructure <br>
+  🌐 <b>Check out my Portfolio: <a href="https://www.jordannst.my.id/" target="_blank">jordannst.my.id</a></b> <br>
   🎯 <b>Currently open for internship and freelance opportunities!</b>
 </p>
 
@@ -76,6 +77,7 @@
 <h3 align="left">📫 Connect with me</h3>
 
 <div align="left">
+  <a href="https://www.jordannst.my.id/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=2EA043&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge" /></a>
   <a href="https://www.instagram.com/_jordannst/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   <a href="mailto:jordannst.08@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
