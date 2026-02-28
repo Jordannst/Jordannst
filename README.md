@@ -15,8 +15,8 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jordannst&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jordannst&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div> 
 ###
 
 <br clear="both">
@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" style="background-color: white; padding: 3px; border-radius: 5px;" />
   <img width="12" />
