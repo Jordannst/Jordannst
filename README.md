@@ -14,7 +14,9 @@
 </div>
 
 ###
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jordannst&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div> 
 ###
 
 <br clear="both">
