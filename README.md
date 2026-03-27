@@ -3,7 +3,7 @@
 <p align="left"> 
   👨‍🎓 CS Student based in Indonesia 🇮🇩 <br>
   ⚡ Actively building with React Native, Astro, & exploring Cloud Infrastructure <br>
-  🌐 <b>Check out my Portfolio: <a href="https://www.jordannst.dev/" target="_blank">jordannst.my.id</a></b> <br>
+  🌐 <b>Check out my Portfolio: <a href="https://www.jordannst.dev/" target="_blank">jordannst.dev</a></b> <br>
   🎯 <b>Currently open for internship and freelance opportunities!</b>
 </p>
 
