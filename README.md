@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Jordan%20%7C%20Full-Stack%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Seamless%20Digital%20Experiences%20%F0%9F%8C%8C&descSize=16&descAlignY=55" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,45:2563EB,100:14B8A6&text=Jordan%20%7C%20Full-Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=fadeIn&desc=Mobile-first%20apps%20%E2%80%A2%20Modern%20web%20%E2%80%A2%20Cloud-backed%20products&descSize=16&descAlignY=62&fontAlignY=40" width="100%" alt="header" />
 </div>
 
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />! I'm Jordan</h2>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&repeat=true&width=620&lines=Full-Stack+Dev+crafting+seamless+digital+experiences+%F0%9F%8C%8C;React+Native+%E2%9A%9B+%7C+Astro+%F0%9F%9A%80+%7C+Cloud+Infra+%E2%98%81;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&repeat=true&width=720&lines=Building+mobile-first+apps+and+modern+web+experiences;React+Native+%E2%9A%9B+%7C+Astro+%F0%9F%9A%80+%7C+Cloud+Infrastructure+%E2%98%81;Exploring+Go+and+DevOps+for+reliable+systems" alt="Typing SVG" />
 </a>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" /> CS Student based in Indonesia 🇮🇩 <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20" /> Currently building with <b>React Native</b>, <b>Astro</b>, & diving into <b>Cloud Infrastructure</b> <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20" /> Always learning — currently exploring <b>Go</b> & <b>DevOps</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" /> CS student from Indonesia, building mobile-first apps, modern web experiences, and cloud-backed products. <br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20" /> Currently focused on <b>React Native</b>, <b>Astro</b>, and <b>Cloud Infrastructure</b>. <br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20" /> Exploring <b>Go</b> and <b>DevOps</b> to build faster, more reliable systems.
 </p>
 
 <p align="left">
