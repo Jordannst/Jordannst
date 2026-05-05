@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:020617,35:0F172A,70:1E3A8A,100:0F766E&text=Jordan&fontSize=48&fontColor=F8FAFC&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Mobile-first%20Apps%20%E2%80%A2%20Cloud-backed%20Products&descSize=16&descAlignY=66&fontAlignY=42" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,45:2563EB,100:14B8A6&text=Jordan%20%7C%20Full-Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=fadeIn&desc=Mobile-first%20apps%20%E2%80%A2%20Modern%20web%20%E2%80%A2%20Cloud-backed%20products&descSize=16&descAlignY=62&fontAlignY=40" width="100%" alt="header" />
 </div>
 
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />! I'm Jordan</h2>
