@@ -1,6 +1,8 @@
 # Jordan
 
-IT student building mobile-first apps, modern web experiences, and cloud-backed products.
+**IT Student · Mobile & Web Developer**
+
+Building mobile-first apps, modern web experiences, and cloud-backed products.
 
 Currently working with React Native, React, Astro, Node.js, Supabase, and PostgreSQL.  
 Exploring Go, DevOps, and cloud infrastructure.
