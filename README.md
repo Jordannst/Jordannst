@@ -31,17 +31,18 @@ Exploring Go, DevOps, and cloud infrastructure.
 
 ## 📊 GitHub Activity
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api?username=Jordannst&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark&hide_border=true&cache_seconds=86400"
-    media="(prefers-color-scheme: dark)"
-  />
+<p>
   <img
-    width="420"
-    src="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api?username=Jordannst&show_icons=true&hide_title=true&hide_rank=true&theme=default&hide_border=true&cache_seconds=86400"
+    height="145"
+    src="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api?username=Jordannst&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark&hide_border=true&cache_seconds=86400"
     alt="Jordan's GitHub stats"
   />
-</picture>
+  <img
+    height="145"
+    src="https://github-readme-stats-virid-two-obhx404fq7.vercel.app/api/top-langs?username=Jordannst&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="Jordan's most used languages"
+  />
+</p>
 
 ---
 
