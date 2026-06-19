@@ -1,41 +1,35 @@
-# Jordan
+# 👋 Hi there
 
-**IT Student · Mobile & Web Developer**
-
-Building mobile-first apps, modern web experiences, and cloud-backed products.
+I'm Jordan, an **IT Student** and **Mobile & Web Developer** building mobile-first apps, modern web experiences, and cloud-backed products.
 
 Currently working with React Native, React, Astro, Node.js, Supabase, and PostgreSQL.  
 Exploring Go, DevOps, and cloud infrastructure.
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Focus
+## 🚀 Focus
 
 - Mobile apps with React Native
 - Frontend experiences with React and Astro
 - Backend fundamentals with Node.js and Supabase
 - Reliable systems with Go and DevOps
 
-</td>
-<td valign="top" width="50%">
+---
 
-### Tech Stack
+## 💻 Tech Stack
 
-React Native · React · Astro · TypeScript  
-Node.js · Supabase · PostgreSQL  
-Go · Cloud Infrastructure
-
-</td>
-</tr>
-</table>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-1A1A2E?style=flat-square&logo=astro&logoColor=FF5D01)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
-### GitHub Activity
+## 📊 GitHub Activity
 
 <picture>
   <source
@@ -51,7 +45,12 @@ Go · Cloud Infrastructure
 
 ---
 
-### Connect
+## 🌐 Socials
 
-🌐 [Portfolio](https://www.jordannst.dev/) · 💼 [LinkedIn](https://www.linkedin.com/in/jordannst08/) · ✉️ [Email](mailto:jordannst.08@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jordannst.dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jordannst.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jordannst08-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordannst08/)
+[![Email](https://img.shields.io/badge/Email-jordannst.08%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jordannst.08@gmail.com)
 
+---
+
+> Building practical software with clean interfaces and reliable foundations.
