@@ -7,19 +7,35 @@ Building mobile-first apps, modern web experiences, and cloud-backed products.
 Currently working with React Native, React, Astro, Node.js, Supabase, and PostgreSQL.  
 Exploring Go, DevOps, and cloud infrastructure.
 
-## Focus
+---
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Focus
 
 - Mobile apps with React Native
 - Frontend experiences with React and Astro
-- Backend fundamentals with Node.js, Supabase, and PostgreSQL
-- Reliable systems with Go, DevOps, and cloud infrastructure
+- Backend fundamentals with Node.js and Supabase
+- Reliable systems with Go and DevOps
 
-## Tech
+</td>
+<td valign="top" width="50%">
+
+### Tech Stack
 
 React Native · React · Astro · TypeScript  
-Node.js · Supabase · PostgreSQL · Go
+Node.js · Supabase · PostgreSQL  
+Go · Cloud Infrastructure
 
-## GitHub
+</td>
+</tr>
+</table>
+
+---
+
+### GitHub Activity
 
 <picture>
   <source
@@ -33,7 +49,9 @@ Node.js · Supabase · PostgreSQL · Go
   />
 </picture>
 
-## Connect
+---
+
+### Connect
 
 🌐 [Portfolio](https://www.jordannst.dev/) · 💼 [LinkedIn](https://www.linkedin.com/in/jordannst08/) · ✉️ [Email](mailto:jordannst.08@gmail.com)
 
