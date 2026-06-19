@@ -50,6 +50,7 @@ Exploring Go, DevOps, and cloud infrastructure.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jordannst.dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jordannst.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jordannst08-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordannst08/)
+[![Instagram](https://img.shields.io/badge/Instagram-_jordannst-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_jordannst/)
 [![Email](https://img.shields.io/badge/Email-jordannst.08%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jordannst.08@gmail.com)
 
 ---
