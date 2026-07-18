@@ -5,7 +5,7 @@
 <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt="Animated skills icon" /> My Digital Toolbox</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,astro,ts,nodejs,supabase,postgres,go,php&perline=8" alt="React, Astro, TypeScript, Node.js, Supabase, PostgreSQL, Go, and PHP" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,nodejs,express,laravel,go,postgres,git,linux&perline=6" alt="React, Next.js, Astro, TypeScript, Node.js, Express, Laravel, Go, PostgreSQL, Git, and Linux" />
 </p>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Animated fire icon" /> GitHub Activity</h2>
