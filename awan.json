@@ -1,0 +1,46 @@
+{
+  "username": "jordannst",
+  "name": "jordan",
+  "role": "IT student & mobile/web builder",
+  "location": "indonesia",
+  "stack": "TypeScript, Go & PHP",
+  "song": "",
+  "artist": "",
+  "lyrics": [],
+  "streak": 0,
+  "stats": [],
+  "contributions": "",
+  "contrib_year": 0,
+  "contrib_recent": 0,
+  "output": "assets/awan.gif",
+  "scenes": [
+    {
+      "act": "wave",
+      "say": "hi there! i'm jordan"
+    },
+    {
+      "act": "present",
+      "say": "IT student by day, builder by choice"
+    },
+    {
+      "act": "stroll",
+      "say": "crafting mobile & web experiences"
+    },
+    {
+      "act": "rocket",
+      "say": "powered by TypeScript, Go & PHP"
+    },
+    {
+      "act": "stats",
+      "say": "the numbers, if you're curious"
+    },
+    {
+      "act": "sleep",
+      "say": "nap time. ship again tomorrow"
+    },
+    {
+      "act": "wave",
+      "say": "bye byeee ^^"
+    }
+  ]
+}

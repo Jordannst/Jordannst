@@ -1,0 +1,18 @@
+name: awan profile
+on:
+  push:
+    branches: [main, master]
+    paths: ["awan.json"]
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  awan:
+    uses: codewithwan/awan/.github/workflows/profile.yml@v0.0.5
+    permissions:
+      contents: write
+    with:
+      brag_over: 100
+      brag_say: "i'm so excited!"
+      cope_say: "...i'll fix that, promise"
