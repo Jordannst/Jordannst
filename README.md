@@ -2,7 +2,7 @@
   <img src="assets/awan.gif" width="100%" alt="Awan introducing Jordan and his developer journey" />
 </p>
 
-<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt="Animated skills icon" /> My Digital Toolbox</h2>
+<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt="Animated skills icon" /> Tools of the Trade</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,nodejs,express,laravel,go,postgres,git,linux&perline=11" alt="React, Next.js, Astro, TypeScript, Node.js, Express, Laravel, Go, PostgreSQL, Git, and Linux" />
