@@ -11,9 +11,9 @@
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Animated fire icon" /> GitHub Activity</h2>
 
 <p align="center">
-  <img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jordannst&theme=github_dark" alt="Jordan's contribution timeline and profile details" />
-  <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jordannst&theme=github_dark" alt="Jordan's GitHub statistics" />
-  <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jordannst&theme=github_dark" alt="Jordan's most used languages by commit" />
+  <img width="88%" src="https://github-profile-summary-cards-mocha.vercel.app/api/cards/profile-details?username=Jordannst&theme=github_dark" alt="Jordan's contribution timeline and profile details" />
+  <img width="320" src="https://github-profile-summary-cards-mocha.vercel.app/api/cards/stats?username=Jordannst&theme=github_dark" alt="Jordan's GitHub statistics" />
+  <img width="320" src="https://github-profile-summary-cards-mocha.vercel.app/api/cards/most-commit-language?username=Jordannst&theme=github_dark" alt="Jordan's most used languages by commit" />
 </p>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" alt="Animated handshake icon" /> Let's Connect</h2>
