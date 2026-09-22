@@ -16,17 +16,9 @@
   <img width="320" src="https://github-profile-summary-cards-mocha.vercel.app/api/cards/most-commit-language?username=Jordannst&theme=github_dark" alt="Jordan's most used languages by commit" />
 </p>
 
-<h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" alt="Animated handshake icon" /> Let's Connect</h2>
-
+<!-- Keep the card links adjacent so whitespace does not wrap the fourth card. -->
 <p align="center">
-  <a href="https://jordannst.dev"><img width="100%" src="assets/contact-command-center.svg" alt="Open Jordan's portfolio from the contact command center" /></a>
+  <img src="assets/contact-cards/header.png" width="100%" alt="A few ways to reach me. Let's connect." /><br />
+  <a href="https://jordannst.dev"><img src="assets/contact-cards/portfolio.png" width="25%" alt="Portfolio — jordannst.dev" /></a><a href="mailto:jordannst.08@gmail.com"><img src="assets/contact-cards/email.png" width="25%" alt="Email Jordan — Say hello" /></a><a href="https://www.linkedin.com/in/jordannst08"><img src="assets/contact-cards/linkedin.png" width="25%" alt="LinkedIn — Let's connect" /></a><a href="https://www.instagram.com/_jordannst"><img src="assets/contact-cards/instagram.png" width="25%" alt="Instagram — Beyond the code" /></a><br />
+  <img src="assets/contact-cards/footer.png" width="100%" alt="build · learn · ship · repeat" />
 </p>
-
-<p align="center">
-  <a href="https://jordannst.dev"><img width="32" src="https://cdn.simpleicons.org/googlechrome/79C0FF" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jordannst08"><img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_jordannst"><img width="32" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="mailto:jordannst.08@gmail.com"><img width="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" /></a>
-</p>
-
-<p align="center"><sub>build · learn · ship · repeat</sub></p>
