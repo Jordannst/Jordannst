@@ -18,7 +18,7 @@
 
 <!-- Keep the card links adjacent so whitespace does not wrap the fourth card. -->
 <p align="center">
-  <img src="assets/contact-cards/header.png" width="88%" alt="A few ways to reach me. Let's connect." /><br />
-  <a href="https://jordannst.dev"><img src="assets/contact-cards/portfolio.png" width="22%" alt="Portfolio — jordannst.dev" /></a><a href="mailto:jordannst.08@gmail.com"><img src="assets/contact-cards/email.png" width="22%" alt="Email Jordan — Say hello" /></a><a href="https://www.linkedin.com/in/jordannst08"><img src="assets/contact-cards/linkedin.png" width="22%" alt="LinkedIn — Let's connect" /></a><a href="https://www.instagram.com/_jordannst"><img src="assets/contact-cards/instagram.png" width="22%" alt="Instagram — Beyond the code" /></a><br />
-  <img src="assets/contact-cards/footer.png" width="88%" alt="build · learn · ship · repeat" />
+  <img src="assets/contact-cards/header.png" width="80%" alt="A few ways to reach me. Let's connect." /><br />
+  <a href="https://jordannst.dev"><img src="assets/contact-cards/portfolio.png" width="20%" alt="Portfolio — jordannst.dev" /></a><a href="mailto:jordannst.08@gmail.com"><img src="assets/contact-cards/email.png" width="20%" alt="Email Jordan — Say hello" /></a><a href="https://www.linkedin.com/in/jordannst08"><img src="assets/contact-cards/linkedin.png" width="20%" alt="LinkedIn — Let's connect" /></a><a href="https://www.instagram.com/_jordannst"><img src="assets/contact-cards/instagram.png" width="20%" alt="Instagram — Beyond the code" /></a><br />
+  <img src="assets/contact-cards/footer.png" width="80%" alt="build · learn · ship · repeat" />
 </p>
