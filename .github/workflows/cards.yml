@@ -1,0 +1,26 @@
+name: README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate images
+        run: python3 scripts/cards.py
+        env:
+          # Optional README_STATS_TOKEN (read-only PAT) also counts private repositories.
+          GH_TOKEN: ${{ secrets.README_STATS_TOKEN || github.token }}
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/readme
+          git diff --cached --quiet || { git commit -m "chore: refresh README cards" && git push; }
